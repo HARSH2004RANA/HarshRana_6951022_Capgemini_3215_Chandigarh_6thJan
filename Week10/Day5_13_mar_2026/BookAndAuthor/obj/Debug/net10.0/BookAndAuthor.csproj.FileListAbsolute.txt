@@ -1,0 +1,680 @@
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\appsettings.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.staticwebassets.runtime.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.staticwebassets.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.exe
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.deps.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.runtimeconfig.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Humanizer.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Build.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.Common.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.Configuration.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.Frameworks.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.LibraryModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.Packaging.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.ProjectModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.Protocol.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\NuGet.Versioning.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.CodeDom.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\af\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ar\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\az\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\bg\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\da\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\el\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fa\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\he\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\hr\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\hu\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\hy\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\id\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\is\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ku\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\lv\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\mt\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\nb\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\nl\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ro\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\sk\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\sl\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\sr\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\sv\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\uk\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\vi\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.csproj.AssemblyReference.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.AssemblyInfoInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.AssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.csproj.CoreCompileInputs.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.RazorAssemblyInfo.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.RazorAssemblyInfo.cs
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.sourcelink.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\scopedcss\bundle\BookAndAuthor.styles.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\scopedcss\projectbundle\BookAndAuthor.bundle.scp.css
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\gdjwi9zare-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\yxfcalic4o-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\f6ayr7w3oh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\ziy4vl82io-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\l7whvb3bi2-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\jsr9874n2l-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\j2ac1uqvul-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\cmrbk81cxv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\d7zfgl037d-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\wumy3dv3js-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\6py0tenoh0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\5o194ty97i-{0}-ub07r2b239-ub07r2b239.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\omap3b9fy5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\mdzr15eqyh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\o97yqsgewe-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\4vlhxo75ih-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\0jw94yb9c1-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\c4lkmz71jx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\ygoihg8qkg-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\l8yiogvhk8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\ijcky2jenl-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\awmjx898w7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\g7hp9ap5r5-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\hxyktkjhwj-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\4fzfltxuvm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\dz22ghrfiu-{0}-06098lyss8-06098lyss8.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\y0ze11srd1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\idey31cmc9-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\p0wxlgsqe0-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\vf25an0rxk-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\lcsd2mazh2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\y3vp714fan-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\6sz9ki12ym-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\sr8u6bga85-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\lvuqxulgyi-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\eglqom9tvb-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\0r4bpd2vga-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\44dl2c3os4-{0}-493y06b0oq-493y06b0oq.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\gq2988twv1-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\4g34d30mp6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\czvh3ks7z8-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\n2jjlz3n7y-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\ab86kam1gp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\6549wee2nv-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\ajh3wkn5yi-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\n8i8fonyfl-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\4hijhu3ih8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\gse0u80p2y-{0}-47otxtyo56-47otxtyo56.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\6y7vbcm5qb-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\zv0cnhxyzg-{0}-356vix0kms-356vix0kms.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\zn06xw6aab-{0}-83jwlth58m-83jwlth58m.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\ic9josk8g0-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\jtqi4nscef-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\gk1otuyjmj-{0}-ag7o75518u-ag7o75518u.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\rm0r3m1ff6-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\9qs55u7jbv-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\atq8p1j7dx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\bztd3ksa8a-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\w20m0ggrfh-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\m7547082gk-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\2b5l8m8zjt-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\kmadgtmhcx-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\wud4faqk1a-{0}-jq8icw7tiw-jq8icw7tiw.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\compressed\1hrzh0teu0-{0}-jq8icw7tiw-jq8icw7tiw.gz
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndA.2E0615CE.Up2Date
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\refint\BookAndAuthor.dll
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.pdb
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.genruntimeconfig.cache
+C:\Users\ARYAN\OneDrive\Desktop\Capegemini\Week10_9 March to 14 March\Day34_13 Mar 2026\BookAndAuthor\obj\Debug\net10.0\ref\BookAndAuthor.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\appsettings.Development.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\appsettings.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.staticwebassets.runtime.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.staticwebassets.endpoints.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.exe
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.deps.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.runtimeconfig.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\BookAndAuthor.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Azure.Core.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Azure.Identity.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Humanizer.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Build.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Elfie.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Features.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.DiaSymReader.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.NET.StringTools.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\dotnet-aspnet-codegenerator-design.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.Common.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.Configuration.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.DependencyResolver.Core.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.Frameworks.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.LibraryModel.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.Packaging.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.ProjectModel.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.Protocol.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\NuGet.Versioning.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.ClientModel.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.CodeDom.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Reflection.MetadataLoadContext.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\af\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ar\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\az\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\bg\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\bn-BD\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\da\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\el\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fa\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fi-FI\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr-BE\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\he\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\hr\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\hu\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\hy\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\id\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\is\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko-KR\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ku\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\lv\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ms-MY\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\mt\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\nb\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\nb-NO\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\nl\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ro\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\sk\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\sl\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\sr\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\sr-Latn\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\sv\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\th-TH\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\uk\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\uz-Cyrl-UZ\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\uz-Latn-UZ\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\vi\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-CN\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Humanizer.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.csproj.AssemblyReference.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.AssemblyInfoInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.AssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.RazorAssemblyInfo.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.RazorAssemblyInfo.cs
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.sourcelink.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\scopedcss\bundle\BookAndAuthor.styles.css
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\scopedcss\projectbundle\BookAndAuthor.bundle.scp.css
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\gdjwi9zare-{0}-b9sayid5wm-b9sayid5wm.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\yxfcalic4o-{0}-61n19gt1b8-61n19gt1b8.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\f6ayr7w3oh-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\ziy4vl82io-{0}-bqjiyaj88i-bqjiyaj88i.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\l7whvb3bi2-{0}-c2jlpeoesf-c2jlpeoesf.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\jsr9874n2l-{0}-erw9l3u2r3-erw9l3u2r3.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\j2ac1uqvul-{0}-aexeepp0ev-aexeepp0ev.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\cmrbk81cxv-{0}-d7shbmvgxk-d7shbmvgxk.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\d7zfgl037d-{0}-ausgxo2sd3-ausgxo2sd3.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\wumy3dv3js-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\6py0tenoh0-{0}-cosvhxvwiu-cosvhxvwiu.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\5o194ty97i-{0}-ub07r2b239-ub07r2b239.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\omap3b9fy5-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\mdzr15eqyh-{0}-b7pk76d08c-b7pk76d08c.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\o97yqsgewe-{0}-fsbi9cje9m-fsbi9cje9m.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\4vlhxo75ih-{0}-rzd6atqjts-rzd6atqjts.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\0jw94yb9c1-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\c4lkmz71jx-{0}-dxx9fxp4il-dxx9fxp4il.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\ygoihg8qkg-{0}-jd9uben2k1-jd9uben2k1.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\l8yiogvhk8-{0}-khv3u5hwcm-khv3u5hwcm.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\ijcky2jenl-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\awmjx898w7-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\g7hp9ap5r5-{0}-c2oey78nd0-c2oey78nd0.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\hxyktkjhwj-{0}-tdbxkamptv-tdbxkamptv.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\4fzfltxuvm-{0}-j5mq2jizvt-j5mq2jizvt.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\dz22ghrfiu-{0}-06098lyss8-06098lyss8.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\y0ze11srd1-{0}-nvvlpmu67g-nvvlpmu67g.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\idey31cmc9-{0}-s35ty4nyc5-s35ty4nyc5.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\p0wxlgsqe0-{0}-pj5nd1wqec-pj5nd1wqec.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\vf25an0rxk-{0}-46ein0sx1k-46ein0sx1k.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\lcsd2mazh2-{0}-v0zj4ognzu-v0zj4ognzu.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\y3vp714fan-{0}-37tfw0ft22-37tfw0ft22.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\6sz9ki12ym-{0}-hrwsygsryq-hrwsygsryq.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\sr8u6bga85-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\lvuqxulgyi-{0}-ft3s53vfgj-ft3s53vfgj.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\eglqom9tvb-{0}-6cfz1n2cew-6cfz1n2cew.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\0r4bpd2vga-{0}-6pdc2jztkx-6pdc2jztkx.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\44dl2c3os4-{0}-493y06b0oq-493y06b0oq.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\gq2988twv1-{0}-iovd86k7lj-iovd86k7lj.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\4g34d30mp6-{0}-vr1egmr9el-vr1egmr9el.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\czvh3ks7z8-{0}-kbrnm935zg-kbrnm935zg.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\n2jjlz3n7y-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\ab86kam1gp-{0}-y7v9cxd14o-y7v9cxd14o.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\6549wee2nv-{0}-notf2xhcfb-notf2xhcfb.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\ajh3wkn5yi-{0}-h1s4sie4z3-h1s4sie4z3.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\n8i8fonyfl-{0}-63fj8s7r0e-63fj8s7r0e.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\4hijhu3ih8-{0}-0j3bgjxly4-0j3bgjxly4.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\gse0u80p2y-{0}-47otxtyo56-47otxtyo56.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\6y7vbcm5qb-{0}-4v8eqarkd7-4v8eqarkd7.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\zv0cnhxyzg-{0}-356vix0kms-356vix0kms.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\zn06xw6aab-{0}-83jwlth58m-83jwlth58m.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\ic9josk8g0-{0}-mrlpezrjn3-mrlpezrjn3.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\jtqi4nscef-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\gk1otuyjmj-{0}-ag7o75518u-ag7o75518u.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\rm0r3m1ff6-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\9qs55u7jbv-{0}-0i3buxo5is-0i3buxo5is.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\atq8p1j7dx-{0}-o1o13a6vjx-o1o13a6vjx.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\bztd3ksa8a-{0}-ttgo8qnofa-ttgo8qnofa.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\w20m0ggrfh-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\m7547082gk-{0}-muycvpuwrr-muycvpuwrr.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\2b5l8m8zjt-{0}-87fc7y1x7t-87fc7y1x7t.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\kmadgtmhcx-{0}-mlv21k5csn-mlv21k5csn.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\wud4faqk1a-{0}-jq8icw7tiw-jq8icw7tiw.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\compressed\1hrzh0teu0-{0}-jq8icw7tiw-jq8icw7tiw.gz
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\staticwebassets.build.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\staticwebassets.development.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\swae.build.ex.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndA.2E0615CE.Up2Date
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\refint\BookAndAuthor.dll
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.pdb
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\BookAndAuthor.genruntimeconfig.cache
+C:\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\Week10_9 March to 14 March\Day34_13March\BookAndAuthor\obj\Debug\net10.0\ref\BookAndAuthor.dll

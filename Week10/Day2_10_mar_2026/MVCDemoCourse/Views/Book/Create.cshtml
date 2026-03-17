@@ -34,6 +34,20 @@
                 <span asp-validation-for="Price" class="text-danger"></span>
             </div>
 
+            <!-- NEW FIELD -->
+            <div class="form-group">
+                <label asp-for="Publisher" class="control-label"></label>
+                <input asp-for="Publisher" class="form-control" />
+                <span asp-validation-for="Publisher" class="text-danger"></span>
+            </div>
+
+            <!-- NEW FIELD -->
+            <div class="form-group">
+                <label asp-for="PublishedYear" class="control-label"></label>
+                <input asp-for="PublishedYear" class="form-control" />
+                <span asp-validation-for="PublishedYear" class="text-danger"></span>
+            </div>
+
             <div class="form-group mt-2">
                 <input type="submit" value="Create" class="btn btn-primary" />
             </div>

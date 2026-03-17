@@ -40,6 +40,13 @@ namespace MVCDemoCourse.Migrations
                     b.Property<int>("Price")
                         .HasColumnType("int");
 
+                    b.Property<int>("PublishedYear")
+                        .HasColumnType("int");
+
+                    b.Property<string>("Publisher")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.HasKey("BookId");
 
                     b.ToTable("tblBook");

@@ -1,0 +1,32 @@
+﻿@model Customer___products.Models.Product
+
+<h2 class="mb-4">Delete Product</h2>
+
+<h4>Are you sure you want to delete this product?</h4>
+
+<div class="card p-3 mb-3">
+
+    <p>
+        <strong>Name:</strong> @Model.Name
+    </p>
+
+    <p>
+        <strong>Price:</strong> ₹ @Model.Price
+    </p>
+
+</div>
+
+<form asp-action="Delete" method="post">
+
+    <!-- Hidden ID -->
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">
+        Delete
+    </button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancel
+    </a>
+
+</form>

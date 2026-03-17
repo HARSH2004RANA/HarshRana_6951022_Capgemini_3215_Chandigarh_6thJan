@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\views\\borrowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:views\\borrowers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\views\\borrowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:views\\borrowers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\controllers\\borrowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:controllers\\borrowerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\librarymvc\\models\\library1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12104616-A6C8-9DD8-3BB9-CC30835EA729}|LibraryMVC.csproj|solutionrelative:models\\library1dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Views\\Borrowers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Borrowers\\Create.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Views\\Borrowers\\Create.cshtml",
+              "RelativeToolTip": "Views\\Borrowers\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T10:04:43.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Views\\Borrowers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Borrowers\\Edit.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Views\\Borrowers\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Borrowers\\Edit.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T10:03:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BorrowersController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Controllers\\BorrowersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BorrowersController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Controllers\\BorrowersController.cs",
+              "RelativeToolTip": "Controllers\\BorrowersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAJwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:24:14.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:23:40.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:23:03.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAQwCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:18:10.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T05:17:26.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Library1DbContext.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Models\\Library1DbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Library1DbContext.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\LibraryMVC\\Models\\Library1DbContext.cs",
+              "RelativeToolTip": "Models\\Library1DbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T05:16:40.482Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

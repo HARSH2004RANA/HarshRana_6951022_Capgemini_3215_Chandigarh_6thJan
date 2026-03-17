@@ -1,0 +1,35 @@
+﻿@model IEnumerable<BookAndAuthor.Models.AuthorBook>
+
+<h1>Details of author and books</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+
+<table class="table">
+
+    <thead>
+        <tr>
+            <th>Author</th>
+            <th>Book</th>
+            <th></th>
+        </tr>
+    </thead>
+
+    <tbody>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Author.Name</td>
+                <td>@item.Book.Title</td>
+                <td>
+                    
+                    <a asp-action="Delete" asp-route-authorId="@item.AuthorId" asp-route-bookId="@item.BookId">Delete</a>
+                </td>
+            </tr>
+        }
+
+    </tbody>
+
+</table>

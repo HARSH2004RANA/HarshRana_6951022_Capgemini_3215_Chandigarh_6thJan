@@ -1,0 +1,36 @@
+﻿@model StudentRegistration.Models.Student
+
+<h2>Student Registration</h2>
+
+@if (TempData["Message"] != null)
+{
+    <h3 style="color:green">@TempData["Message"]</h3>
+}
+
+<form asp-action="Register" method="post">
+
+    <div>
+        <label asp-for="Name"></label>
+        <input asp-for="Name" />
+        <span asp-validation-for="Name" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <div>
+        <label asp-for="Age"></label>
+        <input asp-for="Age" />
+        <span asp-validation-for="Age" style="color:red"></span>
+    </div>
+
+    <br />
+
+    <button type="submit">Register</button>
+
+</form>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

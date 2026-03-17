@@ -1,0 +1,314 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\account\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\hr\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\hr\\reports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:controllers\\hrcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\hr\\employeelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\hr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\hr\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\employee\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:views\\employee\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|c:\\users\\aryan\\onedrive\\desktop\\capegemini\\week11_16 march to 22 march\\day36_16 mar 2026\\employeemanagement\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E948C941-9F8F-427B-A13D-C9B01DBFB7C1}|EmployeeManagement.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwEYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:38:30.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:38:26.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Account\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Account\\Dashboard.cshtml",
+              "RelativeToolTip": "Views\\Account\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:36:42.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:36:20.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\HR\\Reports.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\Reports.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\HR\\Reports.cshtml",
+              "RelativeToolTip": "Views\\HR\\Reports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:35:37.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\HR\\EmployeeList.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\EmployeeList.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\HR\\EmployeeList.cshtml",
+              "RelativeToolTip": "Views\\HR\\EmployeeList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:35:01.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\HR\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\HR\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\HR\\Index.cshtml",
+              "RelativeToolTip": "Views\\HR\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:34:32.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Employee\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Employee\\Details.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:33:13.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Employee\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Register.cshtml",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Views\\Employee\\Register.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-17T04:32:44.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:31:45.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:30:44.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\LogActionFilter.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:30:09.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAswBoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:29:05.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Controllers\\HRController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HRController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Controllers\\HRController.cs",
+              "RelativeToolTip": "Controllers\\HRController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:28:24.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:26:57.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ARYAN\\OneDrive\\Desktop\\Capegemini\\Week11_16 March to 22 March\\Day36_16 Mar 2026\\EmployeeManagement\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-17T04:25:58.451Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1497,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

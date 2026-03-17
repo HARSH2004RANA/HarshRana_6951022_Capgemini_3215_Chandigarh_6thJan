@@ -1,0 +1,57 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Hotel Management System</title>
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/HotelManagementSystem.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+
+    <!-- Navbar -->
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-dark bg-dark shadow">
+            <div class="container-fluid">
+
+                <a class="navbar-brand fw-bold" asp-controller="Home" asp-action="Index">
+                    🏨 Hotel Management System
+                </a>
+
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container mt-4">
+
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+
+    </div>
+
+    <!-- Footer -->
+    <footer class="border-top footer text-muted mt-4">
+        <div class="container text-center py-3">
+            © 2026 - Hotel Management System | ASP.NET Core MVC Project
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+</body>
+</html>

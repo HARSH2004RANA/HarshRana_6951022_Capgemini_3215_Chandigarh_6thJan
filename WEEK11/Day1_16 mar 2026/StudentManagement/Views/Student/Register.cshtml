@@ -1,0 +1,21 @@
+﻿@model StudentManagement.Models.Student
+
+<h2>Register Student</h2>
+
+@if (TempData["Success"] != null)
+{
+    <p style="color:green">@TempData["Success"]</p>
+}
+
+<form asp-action="Register" method="post">
+    <input asp-for="Name" placeholder="Name" />
+    <span asp-validation-for="Name"></span>
+
+    <input asp-for="Age" placeholder="Age" />
+    <span asp-validation-for="Age"></span>
+
+    <input asp-for="Email" placeholder="Email" />
+    <span asp-validation-for="Email"></span>
+
+    <button type="submit">Register</button>
+</form>

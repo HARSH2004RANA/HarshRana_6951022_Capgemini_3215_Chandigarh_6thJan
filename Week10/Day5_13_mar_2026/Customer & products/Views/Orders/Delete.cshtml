@@ -1,0 +1,27 @@
+﻿@model Customer___products.Models.Order
+
+<h2>Delete Order</h2>
+
+<h4>Are you sure you want to delete this order?</h4>
+
+<div>
+    <p>
+        <strong>Customer:</strong> @Model.Customer?.Name
+    </p>
+
+    <p>
+        <strong>Product:</strong> @Model.Product?.Name
+    </p>
+</div>
+
+<form asp-action="Delete" method="post">
+
+    <input type="hidden" asp-for="Id" />
+
+    <button type="submit" class="btn btn-danger">Delete</button>
+
+    <a asp-action="Index" class="btn btn-secondary">
+        Cancel
+    </a>
+
+</form>

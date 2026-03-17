@@ -1,46 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\",
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:models\\bookmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:views\\book\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260310063538_tbBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260310063538_tbBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260311083917_AddNewFieldsToBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260311083917_AddNewFieldsToBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day2_10_mar_2026\\mvcdemocourse\\migrations\\20260310063538_tbbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E60B0AD-9249-1696-3F88-1E0956DCE30E}|MVCDemoCourse.csproj|solutionrelative:migrations\\20260310063538_tbbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 272,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,39 +62,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
+              "Title": "20260311083917_AddNewFieldsToBook.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260311083917_AddNewFieldsToBook.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260311083917_AddNewFieldsToBook.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260311083917_AddNewFieldsToBook.cs",
+              "RelativeToolTip": "Migrations\\20260311083917_AddNewFieldsToBook.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T08:39:17.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Delete.cshtml",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Delete.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Delete.cshtml",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Delete.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Delete.cshtml",
               "RelativeToolTip": "Views\\Book\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwD8AAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-10T08:52:40.562Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Create.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Create.cshtml",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Create.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Create.cshtml",
               "RelativeToolTip": "Views\\Book\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-10T08:50:57.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Edit.cshtml",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Edit.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Edit.cshtml",
               "RelativeToolTip": "Views\\Book\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAowEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-10T08:36:42.745Z",
               "EditorCaption": ""
@@ -99,61 +116,60 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Details.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Details.cshtml",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Details.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Details.cshtml",
               "RelativeToolTip": "Views\\Book\\Details.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACkAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDkAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-10T08:34:21.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Index.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Book\\Index.cshtml",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Index.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Views\\Book\\Index.cshtml",
               "RelativeToolTip": "Views\\Book\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAgwDgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-03-10T07:05:30.656Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "BookController.cs",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Controllers\\BookController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Controllers\\BookController.cs",
               "RelativeDocumentMoniker": "Controllers\\BookController.cs",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Controllers\\BookController.cs*",
-              "RelativeToolTip": "Controllers\\BookController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAEwBMAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T07:04:35.274Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20260310063538_tbBook.cs",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260310063538_tbBook.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260310063538_tbBook.cs",
               "RelativeDocumentMoniker": "Migrations\\20260310063538_tbBook.cs",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260310063538_tbBook.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Migrations\\20260310063538_tbBook.cs",
               "RelativeToolTip": "Migrations\\20260310063538_tbBook.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T06:35:38.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T06:35:38.521Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -164,24 +180,23 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\appsettings.json",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\appsettings.json",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAACaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-10T06:25:20.828Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-10T06:25:20.828Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "BookModel.cs",
-              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Models\\BookModel.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Models\\BookModel.cs",
               "RelativeDocumentMoniker": "Models\\BookModel.cs",
-              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\Week10\\Day2_10_mar_2026\\MVCDemoCourse\\Models\\BookModel.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day2_10_mar_2026\\MVCDemoCourse\\Models\\BookModel.cs",
               "RelativeToolTip": "Models\\BookModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T05:02:39.821Z",
               "EditorCaption": ""

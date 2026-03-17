@@ -1,0 +1,375 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\authorbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\authorbooks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\controllers\\authorbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:controllers\\authorbookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\authorbooks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\authorbooks\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\authors\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\authors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\books\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\models\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:models\\authorbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:controllers\\authorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:models\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\books\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\authorbooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\authorbooks\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\migrations\\20260313095237_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:migrations\\20260313095237_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\authors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\bookandauthor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1B5AF8B0-7BA0-0A5B-62FA-561EB7CFF652}|BookAndAuthor.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\AuthorBooks\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\AuthorBooks\\Edit.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\AuthorBooks\\Edit.cshtml",
+              "RelativeToolTip": "Views\\AuthorBooks\\Edit.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvx4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T13:43:43.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Authors\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Edit.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Authors\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Edit.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T13:43:30.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Authors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Authors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T13:41:17.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Books\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Books\\Index.cshtml",
+              "RelativeToolTip": "Views\\Books\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T13:41:05.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T13:40:43.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Books\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Books\\Create.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Books\\Create.cshtml",
+              "RelativeToolTip": "Views\\Books\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T13:26:06.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\AuthorBooks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\AuthorBooks\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\AuthorBooks\\Index.cshtml*",
+              "RelativeToolTip": "Views\\AuthorBooks\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T12:47:13.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\AuthorBooks\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\AuthorBooks\\Create.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\AuthorBooks\\Create.cshtml",
+              "RelativeToolTip": "Views\\AuthorBooks\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T12:47:02.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Authors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Authors\\Create.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Authors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Authors\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T12:44:20.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAB0AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:56:07.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Controllers\\BooksController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAcwEMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:55:50.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuthorBooksController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Controllers\\AuthorBooksController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorBooksController.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Controllers\\AuthorBooksController.cs",
+              "RelativeToolTip": "Controllers\\AuthorBooksController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwC4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:55:19.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthorsController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Controllers\\AuthorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthorsController.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Controllers\\AuthorsController.cs",
+              "RelativeToolTip": "Controllers\\AuthorsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAqwEEAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:54:42.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20260313095237_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Migrations\\20260313095237_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260313095237_InitialCreate.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Migrations\\20260313095237_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260313095237_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:52:37.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:48:06.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T09:47:31.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA3wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:46:12.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuthorBook.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Models\\AuthorBook.cs",
+              "RelativeDocumentMoniker": "Models\\AuthorBook.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Models\\AuthorBook.cs",
+              "RelativeToolTip": "Models\\AuthorBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:45:42.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:45:12.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Author.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Models\\Author.cs",
+              "RelativeDocumentMoniker": "Models\\Author.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\BookAndAuthor\\Models\\Author.cs",
+              "RelativeToolTip": "Models\\Author.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:44:53.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

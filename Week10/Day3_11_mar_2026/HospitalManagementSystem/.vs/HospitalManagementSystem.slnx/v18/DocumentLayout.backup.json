@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:views\\appointments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:controllers\\appointmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:views\\doctors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:views\\patients\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:controllers\\doctorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:views\\appointments\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week10\\day3_11_mar_2026\\hospitalmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5F5A9F08-030B-4503-9940-061525D1E4A5}|HospitalManagementSystem.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Models\\HospitalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\HospitalDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 272,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Patients\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Patients\\Index.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Patients\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Patients\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:50:01.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Doctors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Doctors\\Index.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Doctors\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Doctors\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:49:21.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Appointments\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Create.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Appointments\\Create.cshtml",
+              "RelativeToolTip": "Views\\Appointments\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:39:03.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:32:38.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PatientsController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:27:11.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Appointments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Appointments\\Index.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Views\\Appointments\\Index.cshtml*",
+              "RelativeToolTip": "Views\\Appointments\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-11T06:19:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DoctorsController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Controllers\\DoctorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DoctorsController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Controllers\\DoctorsController.cs",
+              "RelativeToolTip": "Controllers\\DoctorsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:14:04.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppointmentsController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AppointmentsController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Controllers\\AppointmentsController.cs",
+              "RelativeToolTip": "Controllers\\AppointmentsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:13:32.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAuwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:11:24.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HospitalDbContext.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Models\\HospitalDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\HospitalDbContext.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\Models\\HospitalDbContext.cs",
+              "RelativeToolTip": "Models\\HospitalDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T06:10:46.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK10\\Day3_11_mar_2026\\HospitalManagementSystem\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-11T06:10:28.804Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

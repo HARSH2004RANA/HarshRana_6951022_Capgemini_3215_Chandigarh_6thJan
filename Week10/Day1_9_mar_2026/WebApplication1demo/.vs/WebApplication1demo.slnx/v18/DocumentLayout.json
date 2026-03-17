@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day30_9 march\\webapplication1demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day30_9 march\\webapplication1demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day30_9 march\\webapplication1demo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day30_9 march\\webapplication1demo\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|solutionrelative:models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day30_9 march\\webapplication1demo\\models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|solutionrelative:models\\employeemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day30_9 march\\webapplication1demo\\migrations\\20260309071020_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96096A1-F9E6-F886-DBA2-0D9E7373BC9E}|WebApplication1demo.csproj|solutionrelative:migrations\\20260309071020_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:44:58.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20260309071020_m1.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Migrations\\20260309071020_m1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260309071020_m1.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Migrations\\20260309071020_m1.cs",
+              "RelativeToolTip": "Migrations\\20260309071020_m1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:10:20.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T07:03:58.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-09T06:54:37.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:44:30.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeModel.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Models\\EmployeeModel.cs",
+              "RelativeDocumentMoniker": "Models\\EmployeeModel.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day30_9 March\\WebApplication1demo\\Models\\EmployeeModel.cs",
+              "RelativeToolTip": "Models\\EmployeeModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T06:41:50.449Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

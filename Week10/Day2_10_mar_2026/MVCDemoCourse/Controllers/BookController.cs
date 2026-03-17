@@ -1,8 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MVCDemoCourse.Data;
 using MVCDemoCourse.Models;
-using MVCDemoCourse.Data;
-using MVCDemoCourse.Models;
+using System.Linq;
 
 namespace MVCDemoBook_ASP.Controllers
 {
@@ -73,12 +72,17 @@ namespace MVCDemoBook_ASP.Controllers
         }
 
         // POST: Book/Delete/5
-        [HttpPost]
-        public IActionResult Delete(int id, BookModel book)
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int id)
         {
             var data = _context.books.Find(id);
-            _context.books.Remove(data);
-            _context.SaveChanges();
+
+            if (data != null)
+            {
+                _context.books.Remove(data);
+                _context.SaveChanges();
+            }
+
             return RedirectToAction(nameof(Index));
         }
     }

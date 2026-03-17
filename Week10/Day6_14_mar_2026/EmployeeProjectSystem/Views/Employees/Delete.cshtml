@@ -1,0 +1,13 @@
+﻿@model EmployeeProjectSystem.Models.Employee
+
+<h2>Delete Employee</h2>
+
+<p>Are you sure you want to delete @Model.Name ?</p>
+
+<form asp-action="Delete">
+
+	<input type="hidden" asp-for="EmployeeId" />
+
+	<button type="submit">Delete</button>
+
+</form>

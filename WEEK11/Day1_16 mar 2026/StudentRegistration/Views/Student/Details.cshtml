@@ -1,0 +1,14 @@
+﻿@model StudentRegistration.Models.Student
+
+<h2>Student Details</h2>
+
+@if (TempData["Message"] != null)
+{
+    <h3 style="color:green">@TempData["Message"]</h3>
+}
+
+<p><b>ID:</b> @Model.Id</p>
+<p><b>Name:</b> @Model.Name</p>
+<p><b>Age:</b> @Model.Age</p>
+
+<a asp-action="Register">Register Another Student</a>

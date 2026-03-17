@@ -1,0 +1,38 @@
+﻿@model IEnumerable<HotelManagementSystem.Models.Booking>
+
+<h2>Bookings</h2>
+
+<a asp-action="Create" class="btn btn-primary">Add Booking</a>
+
+<table class="table mt-3 table-bordered">
+
+    <tr>
+        <th>Customer</th>
+        <th>Room</th>
+        <th>Days</th>
+        <th>Food</th>
+        <th>Vehicles</th>
+        <th>Billing</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.Customer.Name</td>
+            <td>@item.Room.RoomNumber</td>
+            <td>@item.Days</td>
+            <td>@item.Food</td>
+            <td>@item.Vehicles</td>
+
+            <td>
+                <a asp-controller="Billing"
+                   asp-action="Index"
+                   asp-route-id="@item.Id"
+                   class="btn btn-success btn-sm">
+                    Generate Bill
+                </a>
+            </td>
+        </tr>
+    }
+
+</table>

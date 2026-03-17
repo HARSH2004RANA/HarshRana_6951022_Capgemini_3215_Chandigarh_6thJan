@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4542912-80B2-47E0-8DAB-9927816FF4CB}|ProductApp.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\day30_09march26\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4542912-80B2-47E0-8DAB-9927816FF4CB}|ProductApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4542912-80B2-47E0-8DAB-9927816FF4CB}|ProductApp.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\day30_09march26\\productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4542912-80B2-47E0-8DAB-9927816FF4CB}|ProductApp.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4542912-80B2-47E0-8DAB-9927816FF4CB}|ProductApp.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\day30_09march26\\productapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4542912-80B2-47E0-8DAB-9927816FF4CB}|ProductApp.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwBAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:39:26.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:30:38.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Day30_09March26\\ProductApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T09:29:54.379Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

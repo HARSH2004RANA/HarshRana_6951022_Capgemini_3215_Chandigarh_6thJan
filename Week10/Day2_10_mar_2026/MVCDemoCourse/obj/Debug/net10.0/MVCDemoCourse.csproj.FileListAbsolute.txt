@@ -232,3 +232,4 @@ D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week10\Day2_10_mar_2026\MVCDemoCou
 D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week10\Day2_10_mar_2026\MVCDemoCourse\obj\Debug\net10.0\MVCDemoCourse.pdb
 D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week10\Day2_10_mar_2026\MVCDemoCourse\obj\Debug\net10.0\MVCDemoCourse.genruntimeconfig.cache
 D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week10\Day2_10_mar_2026\MVCDemoCourse\obj\Debug\net10.0\ref\MVCDemoCourse.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\Week10\Day2_10_mar_2026\MVCDemoCourse\obj\Debug\net10.0\MVCDemoCourse.sourcelink.json

@@ -1,0 +1,34 @@
+﻿@model HotelManagementSystem.Models.Booking
+
+<h2>Create Booking</h2>
+
+<form asp-action="Create">
+
+	<div class="mb-3">
+		<label>Customer</label>
+		<select asp-for="CustomerId" asp-items="ViewBag.Customers" class="form-control"></select>
+	</div>
+
+	<div class="mb-3">
+		<label>Room</label>
+		<select asp-for="RoomId" asp-items="ViewBag.Rooms" class="form-control"></select>
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Days"></label>
+		<input asp-for="Days" class="form-control" />
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Food"></label>
+		<input asp-for="Food" class="form-control" />
+	</div>
+
+	<div class="mb-3">
+		<label asp-for="Vehicles"></label>
+		<input asp-for="Vehicles" class="form-control" />
+	</div>
+
+	<button type="submit" class="btn btn-success">Save Booking</button>
+
+</form>

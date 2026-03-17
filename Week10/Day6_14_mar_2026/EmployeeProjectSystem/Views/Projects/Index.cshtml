@@ -1,0 +1,59 @@
+﻿@model IEnumerable<EmployeeProjectSystem.Models.Project>
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="fw-bold">Projects</h2>
+
+        <a asp-action="Create" class="btn btn-primary">
+            + Add Project
+        </a>
+    </div>
+
+    <div class="card shadow-sm">
+        <div class="card-body">
+
+            <table class="table table-hover table-bordered align-middle">
+
+                <thead class="table-dark">
+                    <tr>
+                        <th>Project Title</th>
+                        <th width="200">Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td class="fw-semibold">
+                                @item.Title
+                            </td>
+
+                            <td>
+
+                                <a asp-action="Edit"
+                                   asp-route-id="@item.ProjectId"
+                                   class="btn btn-warning btn-sm me-2">
+                                    Edit
+                                </a>
+
+                                <a asp-action="Delete"
+                                   asp-route-id="@item.ProjectId"
+                                   class="btn btn-danger btn-sm">
+                                    Delete
+                                </a>
+
+                            </td>
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+</div>

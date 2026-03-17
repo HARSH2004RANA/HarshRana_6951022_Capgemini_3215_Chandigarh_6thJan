@@ -11,6 +11,9 @@ namespace MVCDemoCourse.Models
         public string BookName { get; set; }
         public string Author {  get; set; }
         public int Price { get; set; }
+        public string Publisher { get; set; }   
+
+        public int PublishedYear { get; set; }
 
     }
 }

@@ -1,0 +1,30 @@
+﻿@model BookAndAuthor.Models.AuthorBook
+
+<h1>Create</h1>
+
+<h4>AuthorBook</h4>
+<hr />
+
+<div class="row">
+	<div class="col-md-4">
+
+		<form asp-action="Create">
+
+			<div class="form-group">
+				<label asp-for="AuthorId"></label>
+				<select asp-for="AuthorId" class="form-control" asp-items="ViewBag.AuthorId"></select>
+			</div>
+
+			<div class="form-group">
+				<label asp-for="BookId"></label>
+				<select asp-for="BookId" class="form-control" asp-items="ViewBag.BookId"></select>
+			</div>
+
+			<br>
+
+			<input type="submit" value="Create" class="btn btn-primary" />
+
+		</form>
+
+	</div>
+</div>

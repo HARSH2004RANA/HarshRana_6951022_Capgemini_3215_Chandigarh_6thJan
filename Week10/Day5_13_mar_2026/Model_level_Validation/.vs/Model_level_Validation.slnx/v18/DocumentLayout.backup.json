@@ -1,0 +1,218 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:controllers\\companiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:views\\companies\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:views\\companies\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\migrations\\20260313091646_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:migrations\\20260313091646_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|c:\\capgemini_cu_sec3_.netwithazure_raghvisharma\\week10_9 march to 14 march\\day34_13march\\model_level_validation\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65050DD4-FE67-BB14-160E-6099D47BDBD9}|Model_level_Validation.csproj|solutionrelative:models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T14:35:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Views\\Companies\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Create.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Views\\Companies\\Create.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Create.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAqwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:23:46.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Views\\Companies\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Companies\\Index.cshtml",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Views\\Companies\\Index.cshtml",
+              "RelativeToolTip": "Views\\Companies\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-13T09:22:48.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAuwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:19:19.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CompaniesController.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Controllers\\CompaniesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CompaniesController.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Controllers\\CompaniesController.cs",
+              "RelativeToolTip": "Controllers\\CompaniesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:18:35.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20260313091646_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Migrations\\20260313091646_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260313091646_InitialCreate.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Migrations\\20260313091646_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260313091646_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:16:47.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-13T09:16:11.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAgwAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:10:59.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAADwvxcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:08:30.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Models\\Employee.cs*",
+              "RelativeToolTip": "Models\\Employee.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwBsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:07:59.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "C:\\Capgemini_CU_sec3_.netWithAzure_RaghviSharma\\Week10_9 March to 14 March\\Day34_13March\\Model_level_Validation\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwBUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-13T09:07:41.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
