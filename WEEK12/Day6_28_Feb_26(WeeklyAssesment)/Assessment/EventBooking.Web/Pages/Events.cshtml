@@ -1,0 +1,90 @@
+@page
+@model EventBooking.Web.Pages.EventsModel
+
+<div class="container mt-5">
+    <div class="row mb-4">
+        <div class="col-md-8">
+            <h1 class="display-5 fw-bold">
+                <i class="bi bi-calendar-event"></i> Available Events
+            </h1>
+            <p class="text-muted">Explore and book your favorite events</p>
+        </div>
+        <div class="col-md-4 text-end">
+            <a asp-page="/CreateEvent" class="btn btn-success btn-lg">
+                <i class="bi bi-plus-circle"></i> Create Event
+            </a>
+        </div>
+    </div>
+
+    @if (Model.Events == null || Model.Events.Count == 0)
+    {
+        <div class="row">
+            <div class="col-md-8 mx-auto">
+                <div class="card border-0 shadow-sm">
+                    <div class="card-body text-center py-5">
+                        <div class="mb-3">
+                            <i class="bi bi-inbox" style="font-size: 3rem; color: #6c757d;"></i>
+                        </div>
+                        <h4 class="card-title text-muted">No Events Available</h4>
+                        <p class="card-text text-muted mb-4">
+                            No events are currently available. Check back later!
+                        </p>
+                        <a asp-page="/CreateEvent" class="btn btn-success btn-lg">
+                            <i class="bi bi-plus-circle"></i> Create First Event
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    }
+    else
+    {
+        <div class="row">
+            @foreach (var ev in Model.Events)
+            {
+                <div class="col-md-4 mb-4">
+                    <div class="card shadow-sm h-100 border-0 transition-all">
+                        <div class="card-header bg-primary text-white">
+                            <h5 class="mb-0">
+                                <i class="bi bi-calendar-check"></i> @ev.Title
+                            </h5>
+                        </div>
+                        <div class="card-body">
+                            <p class="card-text">@ev.Description</p>
+                            <div class="mb-3">
+                                <p class="mb-2">
+                                    <strong><i class="bi bi-geo-alt"></i> Location:</strong>
+                                    <span class="text-dark">@ev.Location</span>
+                                </p>
+                                <p class="mb-2">
+                                    <strong><i class="bi bi-calendar-date"></i> Date:</strong>
+                                    <span class="badge bg-info">@ev.Date.ToShortDateString()</span>
+                                </p>
+                                <p class="mb-0">
+                                    <strong><i class="bi bi-chair"></i> Available Seats:</strong>
+                                    <span class="badge bg-success">@ev.AvailableSeats</span>
+                                </p>
+                            </div>
+                        </div>
+                        <div class="card-footer bg-light">
+                            <a asp-page="/BookEvent" asp-route-id="@ev.Id" class="btn btn-primary btn-sm w-100">
+                                <i class="bi bi-ticket"></i> Book Now
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    }
+</div>
+
+<style>
+    .transition-all {
+        transition: all 0.3s ease-in-out;
+    }
+
+    .transition-all:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 0.75rem 1.5rem rgba(0, 0, 0, 0.18) !important;
+    }
+</style>

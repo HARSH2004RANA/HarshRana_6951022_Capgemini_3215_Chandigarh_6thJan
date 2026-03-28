@@ -1,0 +1,57 @@
+﻿<h2 class="mb-4">📊 Admin Dashboard</h2>
+
+<div class="row text-center mb-4">
+
+    <div class="col-md-4">
+        <div class="card shadow bg-primary text-white">
+            <div class="card-body">
+                <h4>@ViewBag.TotalProducts</h4>
+                <p>Products</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card shadow bg-success text-white">
+            <div class="card-body">
+                <h4>@ViewBag.TotalCustomers</h4>
+                <p>Customers</p>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-4">
+        <div class="card shadow bg-danger text-white">
+            <div class="card-body">
+                <h4>@ViewBag.TotalOrders</h4>
+                <p>Orders</p>
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<h4>🔥 Top Selling Products</h4>
+<ul class="list-group mb-4">
+    @foreach (var item in ViewBag.TopProducts)
+    {
+        <li class="list-group-item d-flex justify-content-between">
+            @item.Product
+            <span class="badge bg-primary">@item.Total</span>
+        </li>
+    }
+</ul>
+
+<h4>⏳ Pending Orders</h4>
+<ul class="list-group">
+    @foreach (var item in ViewBag.PendingOrders)
+    {
+        <li class="list-group-item">
+            Order ID: @item.OrderId
+        </li>
+    }
+</ul>
+
+<a asp-controller="Account" asp-action="Logout" class="btn btn-dark mt-4">
+    Logout
+</a>

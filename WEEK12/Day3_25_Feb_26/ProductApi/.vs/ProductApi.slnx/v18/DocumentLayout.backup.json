@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66489BC-4E1A-728F-00B0-C403EBB5F80B}|ProductApi.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66489BC-4E1A-728F-00B0-C403EBB5F80B}|ProductApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\deleteproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\productclient.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E4F0A4F-F1D5-5B8B-5F16-DA677BD7AA85}|..\\ProductClient\\ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66489BC-4E1A-728F-00B0-C403EBB5F80B}|ProductApi.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66489BC-4E1A-728F-00B0-C403EBB5F80B}|ProductApi.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E66489BC-4E1A-728F-00B0-C403EBB5F80B}|ProductApi.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E66489BC-4E1A-728F-00B0-C403EBB5F80B}|ProductApi.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\ProductClient\\appsettings.json",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\appsettings.json",
+              "RelativeToolTip": "..\\ProductClient\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T09:53:34.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Pages\\DeleteProduct.cshtml.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml.cs",
+              "RelativeToolTip": "..\\ProductClient\\Pages\\DeleteProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:48:15.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Pages\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml",
+              "RelativeToolTip": "..\\ProductClient\\Pages\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T09:48:09.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductClient",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\ProductClient.csproj",
+              "RelativeDocumentMoniker": "..\\ProductClient\\ProductClient.csproj",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\ProductClient.csproj",
+              "RelativeToolTip": "..\\ProductClient\\ProductClient.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-25T09:48:03.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\ProductClient\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-25T09:37:28.89Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Pages\\Products.cshtml.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml.cs",
+              "RelativeToolTip": "..\\ProductClient\\Pages\\Products.cshtml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:18:33.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Pages\\Products.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml",
+              "RelativeToolTip": "..\\ProductClient\\Pages\\Products.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T09:18:13.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\ProductClient\\Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T09:13:44.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ProductClient\\Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Program.cs*",
+              "RelativeToolTip": "..\\ProductClient\\Program.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:09:34.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:44:19.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:38:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductApi\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:37:25.141Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

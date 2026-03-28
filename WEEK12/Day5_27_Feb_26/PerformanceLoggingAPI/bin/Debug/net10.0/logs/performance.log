@@ -1,0 +1,18 @@
+2026-03-27 15:44:30,658 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /
+2026-03-27 15:44:30,727 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.08 sec - /
+2026-03-27 15:44:41,915 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger
+2026-03-27 15:44:41,919 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.00 sec - /swagger
+2026-03-27 15:44:41,925 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/index.html
+2026-03-27 15:44:42,046 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.12 sec - /swagger/index.html
+2026-03-27 15:44:42,078 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/swagger-ui.css
+2026-03-27 15:44:42,079 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/swagger-ui-bundle.js
+2026-03-27 15:44:42,086 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/swagger-ui-standalone-preset.js
+2026-03-27 15:44:42,110 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.03 sec - /swagger/swagger-ui.css
+2026-03-27 15:44:42,119 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.03 sec - /swagger/swagger-ui-standalone-preset.js
+2026-03-27 15:44:42,145 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.07 sec - /swagger/swagger-ui-bundle.js
+2026-03-27 15:44:42,422 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/v1/swagger.json
+2026-03-27 15:44:42,448 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/favicon-32x32.png
+2026-03-27 15:44:42,449 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.00 sec - /swagger/favicon-32x32.png
+2026-03-27 15:44:42,538 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.12 sec - /swagger/v1/swagger.json
+2026-03-27 15:45:08,357 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /api/Product/fast
+2026-03-27 15:45:08,381 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.02 sec - /api/Product/fast

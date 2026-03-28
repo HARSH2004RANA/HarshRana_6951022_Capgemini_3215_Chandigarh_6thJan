@@ -1,0 +1,17 @@
+2026-03-27 15:40:24,011 INFO  Request - GET /
+2026-03-27 15:40:33,502 INFO  Request - GET /Swagger
+2026-03-27 15:40:33,514 INFO  Request - GET /Swagger/index.html
+2026-03-27 15:40:33,671 INFO  Request - GET /Swagger/swagger-ui.css
+2026-03-27 15:40:33,673 INFO  Request - GET /Swagger/swagger-ui-bundle.js
+2026-03-27 15:40:33,681 INFO  Request - GET /Swagger/swagger-ui-standalone-preset.js
+2026-03-27 15:40:34,003 INFO  Request - GET /Swagger/v1/swagger.json
+2026-03-27 15:40:34,043 INFO  Request - GET /Swagger/favicon-32x32.png
+2026-03-27 15:40:57,356 INFO  Request - POST /api/Auth/login
+2026-03-27 15:40:57,602 INFO  SecureJwtLoggingAPI.Controllers.AuthController - Token generated for user: admin
+2026-03-27 15:41:00,793 INFO  Request - POST /api/Auth/login
+2026-03-27 15:41:00,806 INFO  SecureJwtLoggingAPI.Controllers.AuthController - Token generated for user: admin
+2026-03-27 15:41:22,175 INFO  Request - GET /api/Orders
+2026-03-27 15:41:22,210 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 15:41:33,805 INFO  Request - GET /api/Orders
+2026-03-27 15:41:33,925 INFO  Middleware - Valid token used
+2026-03-27 15:41:33,932 INFO  SecureJwtLoggingAPI.Controllers.OrdersController - GET /api/orders called

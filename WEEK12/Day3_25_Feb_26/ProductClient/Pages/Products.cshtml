@@ -1,0 +1,17 @@
+﻿@page
+@model ProductClient.Pages.ProductsModel
+
+<h2>Products</h2>
+
+<a href="/CreateProduct">Add Product</a>
+
+<ul>
+    @foreach (var p in Model.Products)
+    {
+        <li>
+            @p.Name - ₹@p.Price
+            | <a href="/EditProduct?id=@p.Id">Edit</a>
+            | <a href="/DeleteProduct?id=@p.Id">Delete</a>
+        </li>
+    }
+</ul>

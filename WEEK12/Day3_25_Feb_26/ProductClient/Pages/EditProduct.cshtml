@@ -1,0 +1,11 @@
+﻿@page
+@model ProductClient.Pages.EditProductModel
+
+<h2>Edit Product</h2>
+
+<form method="post">
+    <input type="hidden" asp-for="Product.Id" />
+    Name: <input asp-for="Product.Name" /><br />
+    Price: <input asp-for="Product.Price" /><br />
+    <button type="submit">Update</button>
+</form>

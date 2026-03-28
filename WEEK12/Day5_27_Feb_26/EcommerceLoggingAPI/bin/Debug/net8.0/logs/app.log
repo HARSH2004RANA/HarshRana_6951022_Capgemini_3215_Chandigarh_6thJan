@@ -1,0 +1,13 @@
+2026-03-27 14:24:24,015 INFO  EcommerceLoggingAPI.Controllers.UserController - Login attempt: test@gmail.com
+2026-03-27 14:24:24,037 WARN  EcommerceLoggingAPI.Controllers.UserController - Invalid password
+2026-03-27 14:25:09,970 INFO  EcommerceLoggingAPI.Controllers.UserController - Login attempt: test@gmail.com
+2026-03-27 14:25:35,783 INFO  EcommerceLoggingAPI.Services.OrderService - Order started for user 0
+2026-03-27 14:25:35,784 INFO  EcommerceLoggingAPI.Services.OrderService - Order created successfully
+2026-03-27 14:25:35,784 INFO  EcommerceLoggingAPI.Controllers.OrderController - Order success
+2026-03-27 14:29:27,380 INFO  EcommerceLoggingAPI.Controllers.UserController - Login attempt: test@gmail.com
+2026-03-27 14:30:37,946 INFO  EcommerceLoggingAPI.Controllers.UserController - Login attempt: test@gmail.com
+2026-03-27 14:35:36,381 INFO  Program - Application Started
+2026-03-27 14:35:57,484 INFO  EcommerceLoggingAPI.Controllers.UserController - Login attempt: test@gmail.com
+2026-03-27 14:36:56,481 INFO  EcommerceLoggingAPI.Services.OrderService - Order started for user 2
+2026-03-27 14:36:56,481 INFO  EcommerceLoggingAPI.Services.OrderService - Order created successfully
+2026-03-27 14:36:56,482 INFO  EcommerceLoggingAPI.Controllers.OrderController - Order success

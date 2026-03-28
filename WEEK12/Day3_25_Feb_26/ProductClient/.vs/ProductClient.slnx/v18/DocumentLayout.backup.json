@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\deleteproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\deleteproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\editproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\createproduct.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\products.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\pages\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:pages\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|d:\\capgemini_cu_sec3_donetwithazure_harshrana\\week12\\day3_25_feb_26\\productclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40A3B4AE-E426-4585-920D-B753E4EF723D}|ProductClient.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 391,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 24,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeleteProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\DeleteProduct.cshtml.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml.cs",
+              "RelativeToolTip": "Pages\\DeleteProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:01:25.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "Pages\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\DeleteProduct.cshtml",
+              "RelativeToolTip": "Pages\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T09:01:15.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\EditProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\EditProduct.cshtml.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\EditProduct.cshtml.cs",
+              "RelativeToolTip": "Pages\\EditProduct.cshtml.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T09:00:28.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "Pages\\EditProduct.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\EditProduct.cshtml",
+              "RelativeToolTip": "Pages\\EditProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T09:00:15.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateProduct.cshtml.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\CreateProduct.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\CreateProduct.cshtml.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\CreateProduct.cshtml.cs",
+              "RelativeToolTip": "Pages\\CreateProduct.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:59:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "Pages\\CreateProduct.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\CreateProduct.cshtml",
+              "RelativeToolTip": "Pages\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T08:59:21.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Products.cshtml.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Products.cshtml.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml.cs",
+              "RelativeToolTip": "Pages\\Products.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:58:11.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Products.cshtml",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Pages\\Products.cshtml",
+              "RelativeToolTip": "Pages\\Products.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-25T08:57:21.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capgemini_CU_Sec3_donetWithAzure_HarshRana\\WEEK12\\Day3_25_Feb_26\\ProductClient\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T08:56:23.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

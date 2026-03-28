@@ -1,0 +1,31 @@
+{
+  "version": 2,
+  "dgSpecHash": "q0nClovFVyw=",
+  "success": true,
+  "projectFilePath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 12 (23rd Mar-28th Mar)\\Day 66 26th Mar 26\\MaskingInfo\\MaskingInfo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Annie\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.3\\microsoft.aspnetcore.openapi.10.0.3.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\microsoft.openapi\\2.4.1\\microsoft.openapi.2.4.1.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\swashbuckle.aspnetcore\\10.1.7\\swashbuckle.aspnetcore.10.1.7.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.1.7\\swashbuckle.aspnetcore.swagger.10.1.7.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.1.7\\swashbuckle.aspnetcore.swaggergen.10.1.7.nupkg.sha512",
+    "C:\\Users\\Annie\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.1.7\\swashbuckle.aspnetcore.swaggerui.10.1.7.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "Package 'AutoMapper' 12.0.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-rvv3-g6hj-g44x",
+      "projectPath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 12 (23rd Mar-28th Mar)\\Day 66 26th Mar 26\\MaskingInfo\\MaskingInfo.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\\Week 12 (23rd Mar-28th Mar)\\Day 66 26th Mar 26\\MaskingInfo\\MaskingInfo.csproj",
+      "libraryId": "AutoMapper",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
+}

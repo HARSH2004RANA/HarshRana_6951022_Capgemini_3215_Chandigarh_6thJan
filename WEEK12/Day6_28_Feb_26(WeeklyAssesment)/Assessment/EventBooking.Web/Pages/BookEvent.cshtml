@@ -1,0 +1,40 @@
+@page "{id:int}"
+@model EventBooking.Web.Pages.BookEventModel
+
+<h2>Book Event</h2>
+
+<form method="post">
+
+    <input type="hidden"
+           asp-for="Booking.EventId" />
+
+    <div class="mb-3">
+
+        <label>
+            Number of Seats
+        </label>
+
+        <input asp-for="Booking.SeatsBooked"
+               class="form-control"
+               type="number"
+               min="1"
+               required />
+
+    </div>
+
+    <button class="btn btn-success">
+
+        Confirm Booking
+
+    </button>
+
+</form>
+
+@if (Model.Message != null)
+{
+    <p class="mt-2 text-success">
+
+        @Model.Message
+
+    </p>
+}

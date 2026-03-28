@@ -1,0 +1,324 @@
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.csproj.AssemblyReference.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.AssemblyInfoInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.AssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.csproj.CoreCompileInputs.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.MvcApplicationPartsAssemblyInfo.cs
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.MvcApplicationPartsAssemblyInfo.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.sourcelink.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\appsettings.Development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\appsettings.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.staticwebassets.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.exe
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.deps.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.runtimeconfig.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Azure.Core.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Azure.Identity.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Humanizer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Mono.TextTemplating.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Newtonsoft.Json.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.ClientModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.CodeDom.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Composition.Convention.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Composition.Hosting.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Composition.Runtime.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Composition.TypedParts.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\scopedcss\bundle\ProductApiCache.styles.css
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\staticwebassets.build.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\staticwebassets.development.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\swae.build.ex.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductA.DF4C308F.Up2Date
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\refint\ProductApiCache.dll
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.pdb
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.genruntimeconfig.cache
+C:\Capgemini_CU_Sec3_.NetAzure_AnshikaYadav\Week 12 (23rd Mar-28th Mar)\Day 67 27th Mar 26\ProductApiCache\obj\Debug\net10.0\ref\ProductApiCache.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\appsettings.Development.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\appsettings.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.staticwebassets.endpoints.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ProductApiCache.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Azure.Core.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Azure.Identity.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Humanizer.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Bcl.Cryptography.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Build.Framework.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.ExternalAccess.RazorCompiler.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Extensions.DependencyModel.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Microsoft.VisualStudio.SolutionPersistence.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Mono.TextTemplating.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Newtonsoft.Json.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.ClientModel.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.CodeDom.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Composition.AttributedModel.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Composition.Convention.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Composition.Hosting.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Composition.Runtime.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Composition.TypedParts.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Memory.Data.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.csproj.AssemblyReference.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.MvcApplicationPartsAssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.sourcelink.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\scopedcss\bundle\ProductApiCache.styles.css
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\staticwebassets.build.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\staticwebassets.development.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\swae.build.ex.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductA.DF4C308F.Up2Date
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\refint\ProductApiCache.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ProductApiCache.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day5_27_Feb_26\ProductApiCache\obj\Debug\net10.0\ref\ProductApiCache.dll

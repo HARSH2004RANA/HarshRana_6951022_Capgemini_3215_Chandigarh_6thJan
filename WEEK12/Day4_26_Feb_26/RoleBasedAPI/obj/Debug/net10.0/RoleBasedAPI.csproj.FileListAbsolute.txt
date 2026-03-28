@@ -1,0 +1,90 @@
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.csproj.AssemblyReference.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.sourcelink.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\appsettings.Development.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\appsettings.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.staticwebassets.endpoints.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.exe
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.deps.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.runtimeconfig.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.pdb
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\scopedcss\bundle\RoleBasedAPI.styles.css
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBase.4FF7A4F5.Up2Date
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\refint\RoleBasedAPI.dll
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.pdb
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_dotnetWithAzure_MoniDahiya\Week12_23.03.2026 to 28.03.2026\26 March\Handson 3\RoleBasedAPI\obj\Debug\net10.0\ref\RoleBasedAPI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\appsettings.Development.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\appsettings.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.staticwebassets.endpoints.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.exe
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.deps.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.runtimeconfig.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\RoleBasedAPI.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Microsoft.OpenApi.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.csproj.AssemblyReference.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.AssemblyInfoInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.AssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.csproj.CoreCompileInputs.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.sourcelink.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\scopedcss\bundle\RoleBasedAPI.styles.css
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.build.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.development.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\swae.build.ex.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBase.4FF7A4F5.Up2Date
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\refint\RoleBasedAPI.dll
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.pdb
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\RoleBasedAPI.genruntimeconfig.cache
+D:\Capgemini_CU_Sec3_donetWithAzure_HarshRana\WEEK12\Day4_26_Feb_26\Handson 3\RoleBasedAPI\obj\Debug\net10.0\ref\RoleBasedAPI.dll

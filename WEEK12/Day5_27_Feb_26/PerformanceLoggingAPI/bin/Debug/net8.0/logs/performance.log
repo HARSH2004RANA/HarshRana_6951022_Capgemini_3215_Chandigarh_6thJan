@@ -1,0 +1,47 @@
+2026-03-27 15:00:22,166 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /
+2026-03-27 15:00:22,177 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.03 sec - /
+2026-03-27 15:00:28,678 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger
+2026-03-27 15:00:28,681 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.00 sec - /swagger
+2026-03-27 15:00:28,684 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/index.html
+2026-03-27 15:00:28,721 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.04 sec - /swagger/index.html
+2026-03-27 15:00:28,731 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/swagger-ui.css
+2026-03-27 15:00:28,733 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/swagger-ui-standalone-preset.js
+2026-03-27 15:00:28,733 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/swagger-ui-bundle.js
+2026-03-27 15:00:28,742 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.01 sec - /swagger/swagger-ui.css
+2026-03-27 15:00:28,742 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.01 sec - /swagger/swagger-ui-standalone-preset.js
+2026-03-27 15:00:28,750 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.02 sec - /swagger/swagger-ui-bundle.js
+2026-03-27 15:00:28,815 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/v1/swagger.json
+2026-03-27 15:00:28,824 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/favicon-32x32.png
+2026-03-27 15:00:28,824 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.00 sec - /swagger/favicon-32x32.png
+2026-03-27 15:00:28,839 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.02 sec - /swagger/v1/swagger.json
+2026-03-27 15:00:35,405 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /api/Product/fast
+2026-03-27 15:00:35,421 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.02 sec - /api/Product/fast
+2026-03-27 15:00:54,738 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /api/Product/slow
+2026-03-27 15:00:59,744 WARN  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - Slow API detected: 5.01 sec - /api/Product/slow
+2026-03-27 15:01:44,910 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /
+2026-03-27 15:01:44,921 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.03 sec - /
+2026-03-27 15:01:47,282 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/index.html
+2026-03-27 15:01:47,311 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.03 sec - /swagger/index.html
+2026-03-27 15:01:47,403 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /swagger/v1/swagger.json
+2026-03-27 15:01:47,428 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Completed in 0.02 sec - /swagger/v1/swagger.json
+2026-03-27 15:01:50,613 INFO  PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API Started: GET /api/Product/error
+2026-03-27 15:01:50,618 ERROR PerformanceLoggingAPI.Middleware.PerformanceMiddleware - API failed: /api/Product/error
+System.Exception: Simulated Exception
+   at PerformanceLoggingAPI.Controllers.ProductController.ErrorAPI() in /Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/PerformanceLoggingAPI/Controllers/ProductController.cs:line 28
+   at lambda_method2(Closure, Object, Object[])
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.SyncActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeActionMethodAsync()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeNextActionFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Swashbuckle.AspNetCore.SwaggerUI.SwaggerUIMiddleware.Invoke(HttpContext httpContext)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at PerformanceLoggingAPI.Middleware.PerformanceMiddleware.Invoke(HttpContext context) in /Users/parthsaini/Desktop/capegemini/Capegemini_Sec3_CU_Parthsaini/Week 12/PerformanceLoggingAPI/ Middleware/PerformanceMiddleware.cs:line 28

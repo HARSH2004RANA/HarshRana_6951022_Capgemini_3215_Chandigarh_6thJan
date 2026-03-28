@@ -1,0 +1,6 @@
+@MaskingInfo_HostAddress = http://localhost:5195
+
+GET {{MaskingInfo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

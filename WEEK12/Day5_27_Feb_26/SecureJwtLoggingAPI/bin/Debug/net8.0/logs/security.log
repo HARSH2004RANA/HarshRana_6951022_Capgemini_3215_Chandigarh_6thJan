@@ -1,0 +1,71 @@
+2026-03-27 14:41:56,080 INFO  Request - GET /
+2026-03-27 14:41:58,892 INFO  Request - GET /swag
+2026-03-27 14:42:01,096 INFO  Request - GET /swagger
+2026-03-27 14:42:01,100 INFO  Request - GET /swagger/index.html
+2026-03-27 14:42:01,149 INFO  Request - GET /swagger/swagger-ui.css
+2026-03-27 14:42:01,150 INFO  Request - GET /swagger/swagger-ui-bundle.js
+2026-03-27 14:42:01,150 INFO  Request - GET /swagger/swagger-ui-standalone-preset.js
+2026-03-27 14:42:01,234 INFO  Request - GET /swagger/v1/swagger.json
+2026-03-27 14:42:01,242 INFO  Request - GET /swagger/favicon-32x32.png
+2026-03-27 14:42:10,321 INFO  Request - POST /api/Auth/login
+2026-03-27 14:42:10,369 INFO  SecureJwtLoggingAPI.Controllers.AuthController - Token generated for user: admin
+2026-03-27 14:44:20,711 INFO  Request - GET /
+2026-03-27 14:44:23,688 INFO  Request - GET /swagger/index.html
+2026-03-27 14:44:23,814 INFO  Request - GET /swagger/v1/swagger.json
+2026-03-27 14:44:35,207 INFO  Request - POST /api/Auth/login
+2026-03-27 14:44:35,255 INFO  SecureJwtLoggingAPI.Controllers.AuthController - Token generated for user: admin
+2026-03-27 14:45:31,323 INFO  Request - GET /api/Orders
+2026-03-27 14:45:31,337 ERROR Middleware - Authentication Failed
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-03-27 14:45:31,352 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 14:45:50,713 INFO  Request - POST /api/Auth/login
+2026-03-27 14:45:50,717 INFO  SecureJwtLoggingAPI.Controllers.AuthController - Token generated for user: admin
+2026-03-27 14:46:58,677 INFO  Request - GET /api/Orders
+2026-03-27 14:46:58,679 ERROR Middleware - Authentication Failed
+System.ArgumentException: IDX14102: Unable to decode the header '[PII of type 'Microsoft.IdentityModel.Logging.SecurityArtifact' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64Url encoded string.
+ ---> System.FormatException: IDX10400: Unable to decode: '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]' as Base64url encoded string.
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output, Boolean needReplace, Int32 decodedLength)
+   at Microsoft.IdentityModel.Tokens.Base64UrlEncoder.Decode(ReadOnlySpan`1 strSpan, Span`1 output)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.CreateClaimSet(ReadOnlySpan`1 strSpan, Int32 startIndex, Int32 length, Boolean createHeaderClaimSet)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   --- End of inner exception stack trace ---
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken.ReadToken(ReadOnlyMemory`1 encodedTokenMemory)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebToken..ctor(String jwtEncodedString)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ReadToken(String token, TokenValidationParameters validationParameters)
+2026-03-27 14:46:58,682 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 14:49:41,278 INFO  Request - GET /api/Orders
+2026-03-27 14:49:41,299 ERROR Middleware - Authentication Failed
+Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'ar7g5evTMUmTaXaBunD3syqXBFCrW1Q1Jb-aA86f1y8'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2026-03-27 14:49:41,301 WARN  Middleware - Unauthorized access to /api/Orders
+2026-03-27 14:49:48,038 INFO  Request - POST /api/Auth/login
+2026-03-27 14:49:48,039 ERROR Middleware - Authentication Failed
+Microsoft.IdentityModel.Tokens.SecurityTokenSignatureKeyNotFoundException: IDX10517: Signature validation failed. The token's kid is missing. Keys tried: 'Microsoft.IdentityModel.Tokens.SymmetricSecurityKey, KeyId: '', InternalId: 'ar7g5evTMUmTaXaBunD3syqXBFCrW1Q1Jb-aA86f1y8'. , KeyId: 
+'. Number of keys in TokenValidationParameters: '1'. 
+Number of keys in Configuration: '0'. 
+Exceptions caught:
+ '[PII of type 'System.String' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'.
+token: '[PII of type 'Microsoft.IdentityModel.JsonWebTokens.JsonWebToken' is hidden. For more details, see https://aka.ms/IdentityModel/PII.]'. See https://aka.ms/IDX10503 for details.
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignature(JsonWebToken jwtToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateSignatureAndIssuerSecurityKey(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+   at Microsoft.IdentityModel.JsonWebTokens.JsonWebTokenHandler.ValidateJWSAsync(JsonWebToken jsonWebToken, TokenValidationParameters validationParameters, BaseConfiguration configuration)
+2026-03-27 14:49:48,040 INFO  SecureJwtLoggingAPI.Controllers.AuthController - Token generated for user: admin
+2026-03-27 14:49:59,157 INFO  Request - GET /api/Orders
+2026-03-27 14:49:59,173 INFO  Middleware - Valid token used
+2026-03-27 14:49:59,175 INFO  SecureJwtLoggingAPI.Controllers.OrdersController - GET /api/orders called

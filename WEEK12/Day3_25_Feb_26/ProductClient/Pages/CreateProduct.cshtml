@@ -1,0 +1,10 @@
+﻿@page
+@model ProductClient.Pages.CreateProductModel
+
+<h2>Create Product</h2>
+
+<form method="post">
+    Name: <input asp-for="Product.Name" /><br />
+    Price: <input asp-for="Product.Price" /><br />
+    <button type="submit">Save</button>
+</form>

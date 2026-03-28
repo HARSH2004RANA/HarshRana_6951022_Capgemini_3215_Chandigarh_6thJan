@@ -1,0 +1,23 @@
+﻿@model IEnumerable<ECommerceApp.Models.Order>
+
+<h2>🧾 Order History</h2>
+
+@foreach (var order in Model)
+{
+    <div class="card mb-3 shadow">
+        <div class="card-body">
+
+            <h5>Order ID: @order.OrderId</h5>
+            <p>Date: @order.OrderDate</p>
+            <p>Status: @order.ShippingDetail?.Status</p>
+
+            <ul>
+                @foreach (var item in order.OrderItems)
+                {
+                    <li>@item.Product.Name - Qty: @item.Quantity</li>
+                }
+            </ul>
+
+        </div>
+    </div>
+}

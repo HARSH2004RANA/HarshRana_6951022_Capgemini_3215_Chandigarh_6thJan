@@ -1,0 +1,125 @@
+@page
+@model EventBooking.Web.Pages.CreateEventModel
+
+<div class="container mt-5">
+    <div class="row">
+        <div class="col-md-8 mx-auto">
+            <div class="card shadow-lg border-0">
+                <div class="card-header bg-success text-white">
+                    <h3 class="mb-0">
+                        <i class="bi bi-plus-circle"></i> Create New Event
+                    </h3>
+                </div>
+                <div class="card-body p-5">
+                    @if (!string.IsNullOrEmpty(Model.ErrorMessage))
+                    {
+                        <div class="alert alert-danger alert-dismissible fade show" role="alert">
+                            <i class="bi bi-exclamation-circle"></i>
+                            @Model.ErrorMessage
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    }
+
+                    @if (!string.IsNullOrEmpty(Model.SuccessMessage))
+                    {
+                        <div class="alert alert-success alert-dismissible fade show" role="alert">
+                            <i class="bi bi-check-circle"></i>
+                            @Model.SuccessMessage
+                            <button type="button" class="btn-close" data-bs-dismiss="alert"></button>
+                        </div>
+                    }
+
+                    <form method="post">
+                        <div class="mb-4">
+                            <label asp-for="Event.Title" class="form-label fw-bold">
+                                <i class="bi bi-calendar-event"></i> Event Title
+                            </label>
+                            <input type="text" class="form-control form-control-lg" 
+                                   asp-for="Event.Title" 
+                                   placeholder="Enter event title" required>
+                            <span asp-validation-for="Event.Title" class="text-danger"></span>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Event.Description" class="form-label fw-bold">
+                                <i class="bi bi-file-text"></i> Description
+                            </label>
+                            <textarea class="form-control form-control-lg" 
+                                      asp-for="Event.Description" 
+                                      rows="4"
+                                      placeholder="Enter event description" required></textarea>
+                            <span asp-validation-for="Event.Description" class="text-danger"></span>
+                        </div>
+
+                        <div class="row">
+                            <div class="col-md-6">
+                                <div class="mb-4">
+                                    <label asp-for="Event.Date" class="form-label fw-bold">
+                                        <i class="bi bi-calendar-date"></i> Event Date
+                                    </label>
+                                    <input type="datetime-local" class="form-control form-control-lg" 
+                                           asp-for="Event.Date" required>
+                                    <span asp-validation-for="Event.Date" class="text-danger"></span>
+                                </div>
+                            </div>
+                            <div class="col-md-6">
+                                <div class="mb-4">
+                                    <label asp-for="Event.AvailableSeats" class="form-label fw-bold">
+                                        <i class="bi bi-chair"></i> Available Seats
+                                    </label>
+                                    <input type="number" class="form-control form-control-lg" 
+                                           asp-for="Event.AvailableSeats" 
+                                           min="1"
+                                           placeholder="Number of seats" required>
+                                    <span asp-validation-for="Event.AvailableSeats" class="text-danger"></span>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="mb-4">
+                            <label asp-for="Event.Location" class="form-label fw-bold">
+                                <i class="bi bi-geo-alt"></i> Location
+                            </label>
+                            <input type="text" class="form-control form-control-lg" 
+                                   asp-for="Event.Location" 
+                                   placeholder="Enter event location" required>
+                            <span asp-validation-for="Event.Location" class="text-danger"></span>
+                        </div>
+
+                        <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                            <a asp-page="/Events" class="btn btn-secondary btn-lg">
+                                <i class="bi bi-x-circle"></i> Cancel
+                            </a>
+                            <button type="submit" class="btn btn-success btn-lg">
+                                <i class="bi bi-check-circle"></i> Create Event
+                            </button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<style>
+    .card {
+        border-radius: 0.5rem;
+        margin-top: 2rem;
+    }
+
+    .card-header {
+        border-radius: 0.5rem 0.5rem 0 0;
+        padding: 1.5rem;
+    }
+
+    .form-control:focus,
+    .form-select:focus {
+        border-color: #198754;
+        box-shadow: 0 0 0 0.2rem rgba(25, 135, 84, 0.25);
+    }
+
+    .btn-success:hover {
+        transform: translateY(-2px);
+        box-shadow: 0 0.5rem 1rem rgba(25, 135, 84, 0.3);
+    }
+</style>

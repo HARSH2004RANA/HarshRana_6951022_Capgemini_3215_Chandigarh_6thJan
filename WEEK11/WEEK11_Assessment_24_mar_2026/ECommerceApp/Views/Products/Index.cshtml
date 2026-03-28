@@ -1,0 +1,46 @@
+﻿@model IEnumerable<ECommerceApp.Models.Product>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Product List</h1>
+
+<h4>Filter by Category:</h4>
+
+<a asp-controller="Products" asp-action="Index" class="btn btn-dark m-1">All</a>
+
+@foreach (var cat in ViewBag.Categories)
+{
+    <a class="btn btn-outline-primary m-1"
+       asp-controller="Products"
+       asp-action="ByCategory"
+       asp-route-id="@cat.CategoryId">
+        @cat.Name
+    </a>
+}
+
+<p>
+    <a asp-action="Create" class="btn btn-success">Create New</a>
+</p>
+
+<table class="table table-bordered table-hover">
+    <thead class="table-dark">
+        <tr>
+            <th>Name</th>
+            <th>Price</th>
+            <th>Category</th>
+        </tr>
+    </thead>
+
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Price</td>
+                <td>@item.Category.Name</td>
+            </tr>
+        }
+    </tbody>
+</table>
